@@ -1,0 +1,67 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+*.ipch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+
+# Executables
+*.exe
+*.out
+*.app
+*.bat
+
+# Temporary Databases
+*.sdf
+*.opensdf
+*.pdb
+*.idb
+*.cache
+*.res
+*.ipdb
+*.iobj
+
+# User Option Files
+*.suo
+
+# Compilation Log Files
+*.tlog
+*.log
+*.lastbuildstate
+*.unsuccessfulbuild
+
+# Class diagrams
+*.cd
+
+# compressed
+*.7z
+
+#msxml
+*.tlh
+*.tli
+
+# Editor Temporary Files
+*.swp
+
+#Solution files
+*.VC
+*.VC.VC
+*.VC.VC.opendb
+*.VC.db
